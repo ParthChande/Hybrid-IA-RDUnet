@@ -15,9 +15,9 @@
 [I-Haze](https://paperswithcode.com/dataset/i-haze-1) 
 
 ## Qualitative Results
-REVIDE-inside
+### REVIDE-inside
 ![OUTPUT_REVIDE (4)](https://github.com/user-attachments/assets/caf605c3-bb58-465c-8bde-6df4de431bea)
 
-SOTS
+### SOTS
 ![OUTPUT_SOTS (4)](https://github.com/user-attachments/assets/a85f6eae-3fda-4592-aedc-e70aac88602a)
 
