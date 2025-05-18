@@ -25,3 +25,8 @@
 ![image](https://github.com/user-attachments/assets/c9f5b9f6-21bd-4153-872d-c52e06f6ab89)
 
 # Publication
+Our work is available as "[Hybrid IA-RDUNet: a novel approach to image and video dehazing](https://link.springer.com/article/10.1007/s11760-025-04143-2?utm_source=rct_congratemailt)" and can be viewed as [.pdf](https://rdcu.be/emyIJ).
+
+You can cite our work as below:
+
+Chande, P., Galshetwar, G., Galshetwar, V. et al. Hybrid IA-RDUNet: a novel approach to image and video dehazing. SIViP 19, 558 (2025). https://doi.org/10.1007/s11760-025-04143-2
